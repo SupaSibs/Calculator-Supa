@@ -590,3 +590,20 @@ mul.innerHTML += "5";
 
        }
 
+function clearall() {
+   let sub = document.getElementById("Subtract");
+
+   let add = document.getElementById("Add");
+
+   let mul = document.getElementById("Multiply");
+
+   let div = document.getElementById("Divide");
+
+   let ans = document.getElementById("Answer");
+   
+   sub = "0"
+   add = "0"
+   mul = "0"
+   div = "0"
+   ans = "0"
+}
