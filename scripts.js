@@ -590,7 +590,7 @@ mul.innerHTML += "5";
 
        }
 
-function clearall() {
+function clearAll() {
    let sub = document.getElementById("Subtract");
 
    let add = document.getElementById("Add");
@@ -606,4 +606,16 @@ function clearall() {
    mul = "0"
    div = "0"
    ans = "0"
+}
+function switchAdd() {
+
+}
+function switchSub() {
+
+}
+function switchMul() {
+
+}
+function switchDiv() {
+
 }
