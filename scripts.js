@@ -605,7 +605,7 @@ function clearAll() {
    add.innerHTML  = "0"
    mul.innerHTML  = "0"
    div.innerHTML  = "0"
-   ans.innerHTM = "0"
+   ans.innerHTML = "0"
 }
 function switchAdd() {
 
