@@ -11,6 +11,8 @@ button {
 }
 button:hover {
     background-color: darkGreen;
+    border: none;
+    border-radius: 15%;
     color: hsla(0, 100%, 97%, 0.95)
 
 }
