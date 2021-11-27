@@ -601,11 +601,11 @@ function clearAll() {
 
    let ans = document.getElementById("Answer");
    
-   sub = "0"
-   add = "0"
-   mul = "0"
-   div = "0"
-   ans = "0"
+   sub.innerHTML  = "0"
+   add.innerHTML  = "0"
+   mul.innerHTML  = "0"
+   div.innerHTML  = "0"
+   ans.innerHTM = "0"
 }
 function switchAdd() {
 
