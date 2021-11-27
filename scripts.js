@@ -591,6 +591,7 @@ mul.innerHTML += "5";
        }
 
 function clearAll() {
+   let base = document.document.getElementById("Base");
    let sub = document.getElementById("Subtract");
 
    let add = document.getElementById("Add");
