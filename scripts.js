@@ -602,11 +602,11 @@ function clearAll() {
 
    let ans = document.getElementById("Answer");
    
-   sub.innerHTML  = "0"
-   add.innerHTML  = "0"
-   mul.innerHTML  = "0"
-   div.innerHTML  = "0"
-   ans.innerHTML = "0"
+   sub.innerHTML  = "0";
+   add.innerHTML  = "0";
+   mul.innerHTML  = "0";
+   div.innerHTML  = "0";
+   ans.innerHTML = "0";
 }
 function switchAdd() {
 
