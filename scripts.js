@@ -617,6 +617,12 @@ function switchAdd() {
    let mul = document.getElementById("jsmul");
 
    let div = document.getElementById("jsdiv");
+
+   base.style.display = "none"
+   sub.style.display = "none"
+   add.style.display = "block"
+   mul.style.display = "none"
+   div.style.display = "none"
 }
 function switchSub() {
    let base = document.document.getElementById("jsbase");
@@ -627,6 +633,11 @@ function switchSub() {
    let mul = document.getElementById("jsmul");
 
    let div = document.getElementById("jsdiv");
+   base.style.display = "none"
+   sub.style.display = "block"
+   add.style.display = "none"
+   mul.style.display = "none"
+   div.style.display = "none"
 }
 function switchMul() {
    let base = document.document.getElementById("jsbase");
@@ -637,6 +648,11 @@ function switchMul() {
    let mul = document.getElementById("jsmul");
 
    let div = document.getElementById("jsdiv");
+   base.style.display = "none"
+   sub.style.display = "none"
+   add.style.display = "none"
+   mul.style.display = "block"
+   div.style.display = "none"
 }
 function switchDiv() {
    let base = document.document.getElementById("jsbase");
@@ -647,6 +663,12 @@ function switchDiv() {
    let mul = document.getElementById("jsmul");
 
    let div = document.getElementById("jsdiv");
+
+   base.style.display = "none"
+   sub.style.display = "none"
+   add.style.display = "none"
+   mul.style.display = "none"
+   div.style.display = "block"
 }
 
  
