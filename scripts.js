@@ -609,14 +609,44 @@ function clearAll() {
    ans.innerHTML = "0";
 }
 function switchAdd() {
+   let base = document.document.getElementById("jsbase");
+   let sub = document.getElementById("jssub");
 
+   let add = document.getElementById("jsadd");
+
+   let mul = document.getElementById("jsmul");
+
+   let div = document.getElementById("jsdiv");
 }
 function switchSub() {
+   let base = document.document.getElementById("jsbase");
+   let sub = document.getElementById("jssub");
 
+   let add = document.getElementById("jsadd");
+
+   let mul = document.getElementById("jsmul");
+
+   let div = document.getElementById("jsdiv");
 }
 function switchMul() {
+   let base = document.document.getElementById("jsbase");
+   let sub = document.getElementById("jssub");
 
+   let add = document.getElementById("jsadd");
+
+   let mul = document.getElementById("jsmul");
+
+   let div = document.getElementById("jsdiv");
 }
 function switchDiv() {
+   let base = document.document.getElementById("jsbase");
+   let sub = document.getElementById("jssub");
 
+   let add = document.getElementById("jsadd");
+
+   let mul = document.getElementById("jsmul");
+
+   let div = document.getElementById("jsdiv");
 }
+
+ 
