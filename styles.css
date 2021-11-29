@@ -8,11 +8,12 @@ span {
 button {
     background-color: #097969;
     color: hsla(0, 100%, 100%, 0.95)
+    border: none;
+    border-radius: 15%;
 }
 button:hover {
     background-color: darkGreen;
-    border: none;
-    border-radius: 15%;
+   
     color: hsla(0, 100%, 97%, 0.95)
 
 }
