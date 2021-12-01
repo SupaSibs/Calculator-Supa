@@ -7,15 +7,15 @@ span {
 }
 button {
     background-color: #097969;
-    color: hsla(0, 100%, 100%, 0.95)
+    color: hsla(0, 100%, 100%, 0.95);
     border: none;
     border-radius: 15%;
-    diplay: inherit;
+    display: inherit;
 }
 button:hover {
     background-color: darkGreen;
    
-    color: hsla(0, 100%, 97%, 0.95)
+    color: hsla(0, 100%, 97%, 0.95);
 
 }
 #jsadd {
