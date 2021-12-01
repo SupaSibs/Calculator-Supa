@@ -21,9 +21,9 @@ button:hover {
 #jsadd {
     margin-left: 3em;
 }
-#jsadd, #jssub, #jsmul, #jsdiv {
+/*#jsadd, #jssub, #jsmul, #jsdiv {
   display: none;  
-}
+}*/
 p {
     display: inherit;
 }
